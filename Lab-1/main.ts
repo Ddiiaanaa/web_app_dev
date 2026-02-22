@@ -101,3 +101,4 @@ beta = ${Number(beta.toFixed(4))}
 `);
     return "success";
 }
+(window as any).triangle = triangle;
